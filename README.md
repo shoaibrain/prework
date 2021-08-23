@@ -37,6 +37,10 @@ GIF created with [convertio](https://convertio.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+All the customization buttons and interface was bit overwhelming at first. This was my first interaction with Xcode and I think Xcode is very powerful.
+Ofcourse, it was hard for the first time with all those buttons but those features are there to make our life easy. And with consistent usage, Iam I'll
+get use to it.
+I also had challenges dealing with constraints and aligning components. 
 
 ## License
 
